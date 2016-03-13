@@ -24,7 +24,10 @@ public class PrimeNumber {
 	}
 }
 
-
+/*
+ * Please describe me Why i cannot use public when create this calss in same file 
+ * Like public class PrimeNumberCalculator
+ */
 class PrimeNumberCalculator
 {
 	private int number;
